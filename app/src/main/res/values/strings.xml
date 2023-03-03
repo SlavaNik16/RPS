@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RPS</string>
+
+    <string name="Player">Игрок</string>
+    <string name="txtPlayer">0</string>
+    <string name="Draw">Ничья</string>
+    <string name="txtDraw">0</string>
+    <string name="PC">Компьютер</string>
+    <string name="txtPC">0</string>
+
+    <string name="Time">ВРЕМЯ</string>
+
+    <string name="hour">Часы</string>
+    <string name="txtHour">0</string>
+    <string name="min">Минуты</string>
+    <string name="txtMin">0</string>
+    <string name="sec">Секунды</string>
+    <string name="txtSec">0</string>
+
+
+    <string name="txtButStart">Играть</string>
+    <string name="txtButNext">Следующая</string>
+    <string name="butRock">Камень</string>
+    <string name="butPaper">Бумага</string>
+    <string name="butScissors">Ножницы</string>
+    <string name="butSpock">Спок</string>
+    <string name="butLizard">Ящерица</string>
+
+    <string name="txtChoise">Сделайте свой выбор!</string>
+</resources>
